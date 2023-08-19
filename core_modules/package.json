@@ -1,0 +1,11 @@
+{
+  "name": "assignment_one",
+  "version": "1.0.0",
+  "description": "First assignment for backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Shalom Abrokwah",
+  "license": "ISC"
+}
