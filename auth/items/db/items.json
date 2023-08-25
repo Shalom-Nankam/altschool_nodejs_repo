@@ -1,0 +1,6 @@
+[
+  { "name": "Football shorts", "price": "10000", "size": "large", "id": 1 },
+  { "name": "Football shirts", "price": "15000", "size": "large", "id": 2 },
+  { "name": "Football socks", "price": "6000", "size": "medium", "id": 3 },
+  { "name": "Soccer boots", "price": "25000", "size": "large", "id": 4 }
+]

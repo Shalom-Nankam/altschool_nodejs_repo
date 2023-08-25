@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Peter",
+    "surname": "Mann",
+    "role": "admin",
+    "api_key": "$Peter_Mann"
+  },
+  {
+    "name": "Ahmed",
+    "surname": "Bola",
+    "role": "user",
+    "api_key": "$Ahmed_Bola"
+  },
+  {
+    "name": "Chukwu",
+    "surname": "Obinna",
+    "role": "user",
+    "api_key": "$Chukwu_Obinna"
+  },
+  {
+    "name": "Shalom",
+    "surname": "Abrokwah",
+    "role": "admin",
+    "api_key": "$Shalom_Abrokwah"
+  },
+  {
+    "name": "Mohammed",
+    "surname": "Annas",
+    "role": "user",
+    "api_key": "$Mohammed_Annas"
+  }
+]

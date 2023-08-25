@@ -1,0 +1,13 @@
+span {
+  color: brown;
+  font-size: 30px;
+}
+
+.top {
+  justify-self: center;
+  align-items: center;
+}
+
+.top h1 {
+  color: red;
+}
